@@ -1,0 +1,35 @@
+.btn {
+  background-color: green;
+}
+
+#add {
+  padding-top: 30px;
+}
+
+#subtract {
+  padding-top: 40px;
+}
+
+#divide {
+  padding-top: 40px;
+}
+
+#multiply {
+  padding-top: 40px;
+}
+
+#addOutput {
+  text-align: center;
+}
+
+#subtractOutput {
+  text-align: center;
+}
+
+#divideOutput {
+  text-align: center;
+}
+
+#multiplyOutput {
+  text-align: center;
+}
